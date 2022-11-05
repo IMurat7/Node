@@ -13,3 +13,6 @@ pip3 install --user sklearn
 anaconda 安装模块 可以搜索 anacondapowershell prompt  然后直接pip（vscode的python 是 这个）
 
 cmd 输入python -m pip install  也可以 不过这个好像是python3.7那个 不是anaconda那个  需要转移 
+
+
+
